@@ -1,39 +1,44 @@
-
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding gif" />
 
 <h3 align="center">
-  Welcome to Mahmoud Saad's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Mahmoud Saad's GitHub!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" />
 </h3>
 
-<!-- Typing SVG by DenverCoder1 -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20Developer%20in%20Progress;Building%20cool%20stuff%20with%20code;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=480&height=45&color=f75c7e&vCenter=true&size=22">
-  </a>
-</p> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Front-end+Web+Developer+in+Progress;Building+cool+things+with+code;Always+learning+new+skills" alt="Typing SVG" />
+</p>
 
+---
 
+### 👨‍💻 About Me
 
-- 🏢 I'm a Software Engineer
-- 🧠 I'm currently diving deep into front-end development
-- 🎯 Focused on becoming a **junior web developer** ready to build sleek, responsive interfaces
-- 👨‍💻 Learning JavaScript, React, and modern development tools step by step  
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡ Fun Fact: I can identify different coffee types just by their aroma — it’s my hidden talent!
-- 🌐 Future portfolio coming soon — stay tuned!
+- 🧑‍💻 Software Engineering Student | Passionate Front-End Learner  
+- 📚 Currently diving deep into **HTML, CSS, JavaScript, and React**
+- 🎯 On a mission to become a **Junior Web Developer**
+- 🧠 Lifelong learner — always building, breaking, and learning
+- ⚡ Fun fact: I can identify different coffee types just by aroma ☕  
+- 🌐 Portfolio coming soon — stay tuned!
 
+---
 
+### 🌐 Connect with Me
 
-### Connect with Me :
+<a href="https://linkedin.com/in/mahmoud-saad-mokhtar" target="_blank">
+  <img src="https://img.shields.io/badge/-Mahmoud%20Saad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
 
-<a href="https://linkedin.com/in/mahmoud-saad-mokhtar" target="_blank"><img src="https://img.shields.io/badge/-Mahmoud%20Saad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+---
 
+### 🛠 Tech Stack
 
-### 🛠 &nbsp;Tech Stack
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=css3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+---
+
+⭐️ Star this repo if you like it, and let’s connect!
