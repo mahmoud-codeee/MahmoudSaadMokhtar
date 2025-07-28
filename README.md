@@ -41,4 +41,19 @@
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoud-codeee&show_icons=true&theme=radical" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=mahmoud-codeee&theme=radical&hide_border=false" width="48%" />
+</p>
+
+---
+
+### 📌 Coming Soon
+
+![Portfolio Coming Soon](https://img.shields.io/badge/Portfolio-Coming%20Soon-yellow?style=for-the-badge)
+
+---
+
 ⭐️ Star this repo if you like it, and let’s connect!
