@@ -1,7 +1,7 @@
 <img align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="250" alt="Coding gif" />
 
 <h3 align="center">
-  Welcome to Mahmoud Saad's GitHub!
+  Welcome to Mahmoud Saad's GitHub
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" />
 </h3>
 
